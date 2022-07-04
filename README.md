@@ -1,5 +1,7 @@
 # Proje 1: Insertion Sort
 
+[Proje linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
+
 ### **A)**  **Verilen dizi:** **[22,27,16,2,18,6]**
 
   
